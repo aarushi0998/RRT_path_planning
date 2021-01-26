@@ -1,10 +1,10 @@
-# Implementation of the RRT Algorithm in C++
+# Implementation of the RRT Algorithm in C++ and Python
 
 RRT- Rapidly growing Random Trees is a path planning algorithm, given a start point, goal point, obstacles, incrementing distance, goal radius (or tolerance).
 
 ## Installation
 
-Download the path_planning.cpp file and run it using an appropriate IDE with the C++ packages.
+Download the path_planning.cpp or the rrt_basic.py file and run it using an appropriate IDE with the C++ or Python packages.
 
 ## Usage
 
